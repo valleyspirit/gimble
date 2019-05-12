@@ -46,9 +46,9 @@ function Show-Usage() {
   gimble - `"To make holes as does a gimlet.`" - Lewis Carrol
     A micro logging utility for Windows PowerShell with 
     unique logfile names and auto-purge by date and/or file-count.
-    https://github.com/aerchive/gimble
+    https://github.com/valleyspirit/gimble
   Version: v.0.1.0
-  Keith Mitchell keith@undyne.com; https://github.com/aerchive; http://twitter.com/aerchive
+  Keith Mitchell keith@undyne.com; https://github.com/valleyspirit
 
   Usage:
 
